@@ -79,18 +79,17 @@ jupyter notebook
 ```
 
 📬 Connect with Me
-<p align="left"> <a href="mailto:soumyadeepdutta0670@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/soumyadeep-dutta-258683221/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Soumyad0670"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p>
+<p align="left"> <a href="mailto:soumyadeepdutta0670@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://www.linkedin.com/in/soumyadeep-dutta-609b66334"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://github.com/Soumyad0670"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p>
 
 
 ⭐️ Show Your Support
 If you found this repository useful or interesting:
-Give it a ⭐️ star!
-Share it with friends or on LinkedIn
-Fork it and build your own ML experiments!
+
+Give it a ⭐️ star! Share it with friends or on LinkedIn, Fork it and build your own ML experiments!
 
 📄 License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
 
-<p align="center"> Made with ❤️ by <strong>Soumyadeep Dutta</strong> </p>
+<p align="center"> Author: <strong>Soumyadeep Dutta</strong> </p>
